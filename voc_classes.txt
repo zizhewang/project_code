@@ -1,0 +1,8 @@
+Sleeve
+Collar
+Button
+Pocket
+Cuff
+Front Bottom
+Front Main
+Armhole
